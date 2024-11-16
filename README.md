@@ -3,6 +3,7 @@
 An efficient Python-based application to track your expenses and manage your budget effectively. This project helps users record their daily expenses, analyze spending patterns, and manage finances seamlessly.
 
 **Features**
+
 Expense Logging: Add, update, or delete expense records.
 Database Integration: Stores all expense data securely in a SQLite database (myexpense.db).
 Expense Categories: Organize expenses under customizable categories.
@@ -11,15 +12,18 @@ Search and Filter: Query specific expenses by date, amount, or category.
 User-Friendly Interface: Simple and intuitive design for ease of use.
 
 **File Structure**
+
 main.py - The main application script to manage expense tracking functionality.
 mydb.py - Script for handling database operations.
 myexpense.db - SQLite database file storing expense records.
 test.db - Test database for development and debugging.
 
 **Database**
+
 The project uses myexpense.db to store all expense data. You can customize the database schema by modifying the mydb.py file.
 
 **Future Enhancements**
+
 Data Visualization:
 Integrate charts and graphs to visualize spending patterns and trends.
 
