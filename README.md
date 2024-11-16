@@ -1,4 +1,5 @@
-**Expense Tracker**
+**EXPENSE TRACKER**
+
 An efficient Python-based application to track your expenses and manage your budget effectively. This project helps users record their daily expenses, analyze spending patterns, and manage finances seamlessly.
 
 **Features**
